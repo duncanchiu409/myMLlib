@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: myMLlib
+Version: 0.2.0
+Summary: My first Python ML library
+Author: duncanchiu409
+Requires: numpy
+License-File: LICENSE
+Requires-Dist: numpy

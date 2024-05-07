@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+myMLlib/LinearRegression.py
+myMLlib/LogisticRegression.py
+myMLlib/__init__.py
+myMLlib.egg-info/PKG-INFO
+myMLlib.egg-info/SOURCES.txt
+myMLlib.egg-info/dependency_links.txt
+myMLlib.egg-info/requires.txt
+myMLlib.egg-info/top_level.txt
+tests/__init__.py
+tests/test_LinearRegression.py
+tests/test_LogisticRegression.py
