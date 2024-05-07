@@ -1,10 +1,7 @@
 import numpy as np
 
 class LogisticRegression:
-    def __init__():
-        print('Hello World')
-    
-    def sigmoid_function(self, z):
+    def __sigmoid_function(self, z):
         '''
             Compute the sigmoid function, with z
         
@@ -15,3 +12,6 @@ class LogisticRegression:
         '''
 
         return 1 / (1 + np.exp(-z))
+    
+    def sigmoid_function(self, x):
+        
